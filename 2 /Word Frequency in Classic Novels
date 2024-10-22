@@ -1,0 +1,1 @@
+In the Word Frequency in Classic Novels project, you will use requests and BeautifulSoup to scrape a novel from the Project Gutenberg website. After scraping and cleaning the text data, you will use NLP to find the most frequent words in Moby Dick. The project introduces you to the world of Python web scraping and natural language processing.
